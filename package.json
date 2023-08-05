@@ -1,0 +1,17 @@
+{
+  "name": "currency-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Akhromieiev <qpbd@ukr.net>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.19.2",
+    "currency-codes": "2.1.0",
+    "git": "^0.1.5",
+    "telegraf": "3.36.0"
+  },
+  "description": ""
+}
